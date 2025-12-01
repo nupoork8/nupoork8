@@ -2,7 +2,12 @@
 
 **QA Automation Engineer**
 
-Specializing in automated testing with Python, Playwright, and Pytest.
+## What I Do
+
+✅ Build test automation frameworks  
+✅ Write automated test suites  
+✅ Perform API testing  
+
 
 ## Core Skills
 
@@ -16,11 +21,6 @@ Specializing in automated testing with Python, Playwright, and Pytest.
 
 **Database:**  SQL • MySQL
 
-## What I Do
-
-✅ Build test automation frameworks  
-✅ Write automated test suites  
-✅ Perform API testing  
 
 ---
 
