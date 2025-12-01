@@ -6,16 +6,21 @@ Specializing in automated testing with Python, Playwright, and Pytest.
 
 ## Core Skills
 
-**Testing:** Playwright • Pytest • Selenium • API Testing  
-**Languages:** Python • SQL  
-**Tools:** Git • Jira • Postman
+**Testing:** Automation • Web - UI • API • Manual
+
+**Frameworks:** Playwright • Pytest • Selenium • Cucumber BDD
+
+**API:**  Postman • REST Assured
+
+**Programming Languages:** Python(Primary) • Javascript(Basic) • Java(familiar)
+
+**Database:**  SQL • MySQL
 
 ## What I Do
 
 ✅ Build test automation frameworks  
 ✅ Write automated test suites  
 ✅ Perform API testing  
-✅ Manual & exploratory testing
 
 ---
 
