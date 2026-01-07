@@ -1,6 +1,6 @@
 # Hi, I'm Nupoor👋
 
-**Data Analyst | Turning Data into Actionable Insights**
+**Data Analyst |📫 Reach me: knupoor08@gmail.com**
 
 ## 🛠️ Tech Stack & Tools
 
@@ -50,9 +50,5 @@
 
 </div>
 
-## 📈 Current Focus
-
-- 🔭 Building end-to-end data analysis projects
-- 📫 Reach me: knupoor08@gmail.com
 
 
