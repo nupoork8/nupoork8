@@ -2,9 +2,6 @@
 
 **Data Analyst | Turning Data into Actionable Insights**
 
-- I'm a recent MSc IT graduate passionate about using data to solve real business problems. 
-- Currently building my portfolio through hands-on projects in SQL, Python, Excel, and Tableau.
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
