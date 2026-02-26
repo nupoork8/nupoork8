@@ -37,6 +37,6 @@ I'm not a natural numbers person — I just really like finding the pattern in m
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nupoork8&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&hide=stars)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nupoork8&layout=compact&hide_border=true&theme=default)
+
 
 </div>
