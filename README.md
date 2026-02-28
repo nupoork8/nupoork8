@@ -2,8 +2,6 @@
 
 # Nupoor &nbsp;·&nbsp; Data Analyst
 
-*Started from zero in Jan 2025. Still going.*
-
 [![Email](https://img.shields.io/badge/Email-knupoor08@gmail.com-6C63FF?style=flat-square&logo=gmail&logoColor=white)](mailto:knupoor08@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-nupoork8-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/knupoor/)
 [![Twitter](https://img.shields.io/badge/@nupoorks-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/nupoorks)
@@ -18,7 +16,7 @@
 
 ---
 
-I'm not a natural numbers person — I just really like finding the pattern in messy data. Self-taught, open to remote DA/BA roles (Singapore market).
+I'm not a natural numbers person — I just really like finding the pattern in messy data. Self-taught, open to DA/BA roles.
 
 ---
 
