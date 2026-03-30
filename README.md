@@ -17,12 +17,6 @@
  - A curious learner diving deep into the world of **Data Science & Machine Learning**. 
  - I love finding patterns where others see noise, and building models that actually make sense of the world.
 
-When I'm not training models , you'll find me:
-- 📚 Lost in a good book (fiction, non-fiction — I don't discriminate)
-- 🎵 Listening to **K-Pop** like it's a personality trait (it is)
-- 🍳 Cooking up something in the kitchen data pipelines AND actual food
-- 🐛 Wondering why my last bug fix broke everything else
-
 ---
 
 ## 🔧 Tech Stack & Tools
