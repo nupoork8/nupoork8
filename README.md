@@ -1,11 +1,18 @@
-## Hi there, I'm Nupoor
-- Translating complex data into clear, actionable business strategies.
+Hi, I'm Nupoor 👋
 
+I build Python-based automation tools and AI-powered applications to solve real-world problems.
 
-## About Me
+🔧 What I work on:
 
-- 📊 Focus: Bridging the gap between technical data and business operations.
+* Web scraping & data automation
+* AI-powered tools (chatbots, summarization)
+* Workflow automation using Python
 
-- 🎯 Goal: I specialize in identifying operational bottlenecks and driving efficiency through data visualization and ad-hoc reporting.
+🚀 Currently building:
 
-- 💡 Current Projects: Building interactive Tableau dashboards and conducting comprehensive SQL data extraction for strategic case studies.
+* Job scraping automation tools
+* AI resume analyzer
+* Chatbots using LLM APIs
+
+🎯 Goal:
+To work in remote-first startups where I can build automation systems and AI-driven products.
