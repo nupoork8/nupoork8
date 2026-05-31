@@ -1,3 +1,3 @@
 # Hi, I'm Nupoor 👋
 
-## Gen AI Engineer (in progress)
+## AI Engineer (in progress)
