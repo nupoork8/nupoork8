@@ -1,7 +1,7 @@
 
 # Hi, I'm Nupoor 
 
-Current character arc:
+Currently:
 - Learning C# & .NET
 - Fighting DSA daily
 
