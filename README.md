@@ -1,3 +1,3 @@
-# Hi, I'm Nupoor Kedare 👋
+# Hi, I'm Nupoor 👋
 
 **Software Developer**
