@@ -1,4 +1,4 @@
-# Nupoor's Cybersecurity Lab 🛡️
+# Nupoor's Lab 🛡️
 
 MSc IT graduate currently working in IT Support & Operations
 and building toward a career in cybersecurity.
@@ -9,8 +9,3 @@ and building toward a career in cybersecurity.
 🔹 Windows administration
 🔹 Linux
 🔹 SOC fundamentals
-
-## Goal
-
-Build practical IT and cybersecurity skills through
-hands-on labs and documented projects.
